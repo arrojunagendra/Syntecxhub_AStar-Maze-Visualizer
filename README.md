@@ -24,4 +24,4 @@ It allows users to create walls interactively and visualize how the algorithm fi
    java MazeVisualizer
 
 ## 👨‍💻 Author
-Arroju Nagendra Chary
+Nagendra
